@@ -5,7 +5,11 @@
 }
 
 body {
+<<<<<<< HEAD
     background-color: rgb(44, 73, 48);
+=======
+    background-color: rgb(141, 97, 186);
+>>>>>>> 875c9f64820368dd0b4f0fe204e43d040e1b8255
     margin: 0;
     min-height: 100vh;
     display: flex;
